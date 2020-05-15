@@ -31,7 +31,6 @@ public class Question5
      
     Scanner in = new Scanner(System.in);
     ArrayList<Integer> data = new ArrayList<>();
-    Scanner in = new Scanner(System.in);
     
     System.out.print("Enter the number of integers in the array: "); /* Gets length of array */
     int length = in.nextInt(); 
